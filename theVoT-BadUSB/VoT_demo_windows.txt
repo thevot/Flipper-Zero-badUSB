@@ -1,0 +1,97 @@
+REM This is BadUSB demo script for windows, based on the original stock demo
+
+REM Open windows notepad
+DELAY 1000
+GUI r
+DELAY 500
+STRING notepad
+DELAY 500
+ENTER
+DELAY 750
+
+ENTER
+STRING FFFFFFFFFFFFFFFFFFFFFFFFFF00000000000000000000000000IIIIIIIIIIIIIIIIIIIIIIIIII
+ENTER
+STRING FFFFFFFFFFFFFFFFFFFFFFFFFF00000000000000000000000000IIIIIIIIIIIIIIIIIIIIIIIIII
+ENTER
+STRING FFFFFFFFFFFFFFFFFFFFFFFFFF0000000000  _____  0000000IIIIIIIIIIIIIIIIIIIIIIIIII
+ENTER
+STRING FFFFFFFFFFFFFFFFFFFFFFFFFF00000 _.---'     '. 000000IIIIIIIIIIIIIIIIIIIIIIIIII
+ENTER
+STRING FFFFFFFFFFFFFFFFFFFFFFFFFF0  _.-'            | 00000IIIIIIIIIIIIIIIIIIIIIIIIII
+ENTER
+STRING FFFFFFFFFFFFFFFFFFFFFF  __.-'         //\/\\ | 00 __ IIIIIIIIIIIIIIIIIIIIIIIII
+ENTER
+STRING FFFFFFFFFFFFFFFFFFFFF  /             //    \\'.--' _\ IIIIIIIIIIIIIIIIIIIIIIII
+ENTER
+STRING FFFFFFFFFFFFFFFFFFFF  /                       __.-'   IIIIIIIIIIIIIIIIIIIIIIII
+ENTER
+STRING FFFFFFFFFFFFFFFFFFF  <    ___________.-------'    00IIIIIIIIIIIIIIIIIIIIIIIIII
+ENTER
+STRING FFFFFFFFFFFFFFFFFFF   '--'         //   .'    \   ____ IIIIIIIIIIIIIIIIIIIIIII
+ENTER
+STRING FFFFFFFFFFFFFFFFFF  .'     .=====//  .'  _.-'_'.-'    '-._ IIIIIIIIIIIIIIIIIII
+ENTER
+STRING FFFFFFFFFFFFFFFFFF  .      //#####\\  '--'_.-'    _.--=--_' IIIIIIIIIIIIIIIIII
+ENTER
+STRING FFFFFFFFFFFFFFFFFF |      ||##[]##||   .-'      .'####.-'  IIIIIIIIIIIIIIIIIII
+ENTER
+STRING FFFFFFFFFFFFFFFFF  |    %%%\\###.--""-'       .'###.'  IIIIIIIIIIIIIIIIIIIIIII
+ENTER
+STRING FFFFFFFFFFFFFFFFF |    %%%%%"."            .-'###(_______ IIIIIIIIIIIIIIIIIIII
+ENTER
+STRING FFFFFFFFFFFFFFFF  |     %%%     ._     _.'###/   \ __.--'| IIIIIIIIIIIIIIIIIII
+ENTER
+STRING FFFFFFFFFFFFFFFF |                 '--='----------'  _.-'  IIIIIIIIIIIIIIIIIII
+ENTER
+STRING FFFFFFFFFFFFFFFF |                                .-'    IIIIIIIIIIIIIIIIIIIII
+ENTER
+STRING FFFFFFFFFFFFFFFF |                           .-'/  0IIIIIIIIIIIIIIIIIIIIIIIIII
+ENTER
+STRING FFFFFFFFFFFFFFFF |                       %%##### 000IIIIIIIIIIIIIIIIIIIIIIIIII
+ENTER
+STRING FFFFFFFFFFFFFFF  |                        %%%%%# 000IIIIIIIIIIIIIIIIIIIIIIIIII
+ENTER
+STRING FFFFFFFFFFFFFFF |                           %%%\  00IIIIIIIIIIIIIIIIIIIIIIIIII
+ENTER
+STRING FFFFFFFFFFFFFFF |                               |  0IIIIIIIIIIIIIIIIIIIIIIIIII
+ENTER
+STRING FFFFFFFFFFFFFFF |                                \  IIIIIIIIIIIIIIIIIIIIIIIIII
+ENTER
+STRING FFFFFFFFFFFFFFF |                                 | IIIIIIIIIIIIIIIIIIIIIIIIII
+ENTER
+STRING FFFFFFFFFFFFFFF |                                 | IIIIIIIIIIIIIIIIIIIIIIIIII
+ENTER
+STRING FFFFFFFFFFFFFFF |                                  \ IIIIIIIIIIIIIIIIII-VoT-II
+ENTER
+STRING FFFFFFFFFFFFFFF                                      IIIIIIIIIIIIIIIIIIIIIIIII
+ENTER
+STRING      ____                                       ____
+ENTER
+STRING     |  __|  _     _   ___   ___   ___   ___    |__  |  ___   ___    __
+ENTER
+STRING     | |__  | |   | | | _ \ | _ \ | _ | | _ \     / /  | _ | | _ \  /  \
+ENTER
+STRING     |  __| | |   | | |  _/ |  _/ |  _| |   /    / /   |  _| |   / | /\ |
+ENTER
+STRING     | |    | |_  | | | |   | |   | |_  | \ \   / /__  | |_  | \ \ | \/ |
+ENTER
+STRING     |_|    |___| |_| |_|   |_|   |___| |_|\_\  |____| |___| |_|\_\ \__/
+ENTER
+STRING      _
+ENTER
+STRING     | |  _____    _     _      _     _ 
+ENTER
+STRING     | | |_   _|  / \   | |    | |   / \ 
+ENTER
+STRING     | |   | |   / | \  | |    | |  / | \ 
+ENTER
+STRING     | |   | |  |  _  | | |__  | | |  _  |
+ENTER
+STRING     |_|   |_|  |_| |_| |____| |_| |_| |_|	https://t.me/flipperzeroitalia
+ENTER
+REM
+REM
+REM
+REM Corso Italiano di Flipper Zero by Nicola theVoT Selenu:
+REM https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Duckyscript
