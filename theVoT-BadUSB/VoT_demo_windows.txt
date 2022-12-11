@@ -94,4 +94,4 @@ REM
 REM
 REM
 REM Corso Italiano di Flipper Zero by Nicola theVoT Selenu:
-REM https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Duckyscript
+REM https://www.youtube.com/playlist?list=PLt3CqPfWscfYiUZ_GW23CSdBSpb5wZY_G
