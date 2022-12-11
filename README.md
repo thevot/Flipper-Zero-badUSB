@@ -1,4 +1,4 @@
-# flipper-zero-music
+# flipper-zero-badUSB
 My BadUSB scripts for the Flipper Zero / I miei script BadUSB per il Flipper Zero
 
 
