@@ -1,0 +1,8 @@
+REM Corso Italiano di Flipper Zero
+DELAY 100
+GUI r
+DELAY 100
+STRING https://www.youtube.com/watch?v=AX4nE_QGZpM&list=PLt3CqPfWscfYiUZ_GW23CSdBSpb5wZY_G
+ENTER
+DELAY 5000
+STRING f
